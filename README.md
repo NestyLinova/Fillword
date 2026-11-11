@@ -1,3 +1,7 @@
+<img width="595" height="538" alt="Снимок экрана 2026-11-11 195248" src="https://github.com/user-attachments/assets/8f8cba43-3db7-42a9-a00d-be2af2f2707a" />
+<img width="585" height="515" alt="Снимок экрана 2026-11-11 195015" src="https://github.com/user-attachments/assets/1b314e71-98b7-4984-8203-fe063dd50d97" />
+<img width="521" height="436" alt="Снимок экрана 2026-11-11 194915" src="https://github.com/user-attachments/assets/411ad187-8f9d-46e9-85a8-eeff7998470a" />
+<img width="780" height="535" alt="Снимок экрана 2026-11-11 194533" src="https://github.com/user-attachments/assets/2e8d61dd-eb6e-4138-a2a9-9643a56a5f45" />
 # Fillword Generator
 
 ## About the Project
@@ -96,3 +100,7 @@ As a result of this project, we developed a Java application that automatically 
 During development, we used two-dimensional arrays, collections, recursion and the Backtracking algorithm.
 
 The project helped us understand recursive algorithms, data validation and the process of searching for solutions under specific conditions.
+<img width="780" height="535" alt="Снимок экрана 2026-11-11 194533" src="https://github.com/user-attachments/assets/404b6d14-3bf4-4a75-b784-387d5a02227c" />
+<img width="521" height="436" alt="Снимок экрана 2026-11-11 194915" src="https://github.com/user-attachments/assets/d40c96f7-c83b-48a2-a2f5-b28a02fe4c2a" />
+<img width="585" height="515" alt="Снимок экрана 2026-11-11 195015" src="https://github.com/user-attachments/assets/39f83f6e-27d9-4b0f-b392-8ad03e03eb19" />
+<img width="595" height="538" alt="Снимок экрана 2026-11-11 195248" src="https://github.com/user-attachments/assets/eaa86ef2-08ec-49a2-9498-2480aaf70376" />
