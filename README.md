@@ -1,7 +1,3 @@
-<img width="595" height="538" alt="Снимок экрана 2026-11-11 195248" src="https://github.com/user-attachments/assets/8f8cba43-3db7-42a9-a00d-be2af2f2707a" />
-<img width="585" height="515" alt="Снимок экрана 2026-11-11 195015" src="https://github.com/user-attachments/assets/1b314e71-98b7-4984-8203-fe063dd50d97" />
-<img width="521" height="436" alt="Снимок экрана 2026-11-11 194915" src="https://github.com/user-attachments/assets/411ad187-8f9d-46e9-85a8-eeff7998470a" />
-<img width="780" height="535" alt="Снимок экрана 2026-11-11 194533" src="https://github.com/user-attachments/assets/2e8d61dd-eb6e-4138-a2a9-9643a56a5f45" />
 # Fillword Generator
 
 ## About the Project
@@ -92,6 +88,17 @@ The program was tested with different input values and scenarios.
 The tests covered input validation, grid size validation, word placement, movement restrictions and coordinate output.
 
 All conducted tests were passed successfully.
+<img width="437" height="212" alt="Снимок экрана 2026-11-11 194850" src="https://github.com/user-attachments/assets/6299c6e0-92ac-460a-a08b-c750c9e75ca9" />
+<img width="453" height="196" alt="Снимок экрана 2026-11-11 194811" src="https://github.com/user-attachments/assets/e88ce448-9ed8-47c8-b033-b0047ef42b9e" />
+<img width="481" height="223" alt="Снимок экрана 2026-11-11 194750" src="https://github.com/user-attachments/assets/17269df4-64e2-4d4d-9faa-3afb1b556224" />
+<img width="368" height="194" alt="Снимок экрана 2026-11-11 194735" src="https://github.com/user-attachments/assets/88b79b13-1893-4bb0-a598-03f09519d936" />
+<img width="386" height="165" alt="Снимок экрана 2026-11-11 194716" src="https://github.com/user-attachments/assets/b051bb50-9c71-4629-93e6-e5d76aa0d56b" />
+<img width="383" height="166" alt="Снимок экрана 2026-11-11 194704" src="https://github.com/user-attachments/assets/d14c82d5-08e3-4624-a79a-160d32450e9d" />
+<img width="398" height="170" alt="Снимок экрана 2026-11-11 194645" src="https://github.com/user-attachments/assets/341f278b-8f30-493f-9935-ee4d456b3af1" />
+<img width="367" height="154" alt="Снимок экрана 2026-11-11 194629" src="https://github.com/user-attachments/assets/5f054dab-b2e1-4b49-9a10-0501df188cff" />
+<img width="367" height="165" alt="Снимок экрана 2026-11-11 194606" src="https://github.com/user-attachments/assets/2069c9a6-cb12-471d-b72e-1dee4528b2e1" />
+<img width="407" height="195" alt="Снимок экрана 2026-11-11 194550" src="https://github.com/user-attachments/assets/a9867de5-1960-4b55-b02d-2fe09cd12a7d" />
+
 
 ## Conclusion
 
