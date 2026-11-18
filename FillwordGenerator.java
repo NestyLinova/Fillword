@@ -33,8 +33,6 @@ public class FillwordGenerator {
 
         try {
             File file = new File("words.xml");
-            System.out.println("Ищу файл здесь: " + file.getAbsolutePath());
-            System.out.println("Файл существует: " + file.exists());
 
             DocumentBuilderFactory factory =
                     DocumentBuilderFactory.newInstance();
