@@ -26,6 +26,13 @@ The program includes input validation to prevent incorrect data entry:
 - The grid size must be one of the available options: 3, 4, 5 or 6.
 
 If the user enters invalid data, the program displays an error message and stops execution.
+<img width="452" height="165" alt="Снимок экрана 2026-11-18 182057" src="https://github.com/user-attachments/assets/7d804f63-469a-4947-872f-c6ac1923249d" />
+<img width="456" height="204" alt="Снимок экрана 2026-11-18 182034" src="https://github.com/user-attachments/assets/cfc6ecc3-f592-457d-b313-734af70bc066" />
+<img width="522" height="203" alt="Снимок экрана 2026-11-18 182025" src="https://github.com/user-attachments/assets/9e370d9c-dbed-423a-b194-5ae8e2c7b8bc" />
+<img width="443" height="196" alt="Снимок экрана 2026-11-18 182000" src="https://github.com/user-attachments/assets/0c015d8b-8adb-4c12-8c0b-52bd489743b6" />
+<img width="426" height="199" alt="Снимок экрана 2026-11-18 181946" src="https://github.com/user-attachments/assets/c2169641-1ef6-43b1-b664-aa71083b6924" />
+<img width="452" height="194" alt="Снимок экрана 2026-11-18 181933" src="https://github.com/user-attachments/assets/155fa0a7-f89d-4f17-afe2-c8b991298e04" />
+
 
 ## Technologies Used
 
