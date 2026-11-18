@@ -84,6 +84,11 @@ The `words.xml` file must be located in the project root directory, next to the 
 4. Run the `main()` method.
 5. Enter the desired grid size (3, 4, 5 or 6).
 6. The program will automatically select words from the XML file and generate a fillword.
+   <img width="798" height="812" alt="Снимок экрана 2026-11-18 181919" src="https://github.com/user-attachments/assets/a46edb4b-8fee-4bf6-9b81-f58dbe82751c" />
+<img width="660" height="603" alt="Снимок экрана 2026-11-18 181905" src="https://github.com/user-attachments/assets/d9f0062a-dbc9-4c8c-b526-cb85eaec923d" />
+<img width="701" height="578" alt="Снимок экрана 2026-11-18 181848" src="https://github.com/user-attachments/assets/5eec42fb-7c9e-4ad8-9da5-918cd2612c69" />
+<img width="599" height="464" alt="Снимок экрана 2026-11-18 181821" src="https://github.com/user-attachments/assets/3d1b81d2-6285-45c6-b019-e9b1cca3cb43" />
+
 
 ## Algorithm
 
