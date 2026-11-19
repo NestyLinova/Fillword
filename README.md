@@ -58,7 +58,14 @@ The `words.xml` file must be located in the project root directory, next to the 
 
 ## Division of Work
 
+### Katya Sevostyanova
 
+- Importing the required libraries.
+- Declaring the main variables.
+- Creating the `Cell` class to store cell coordinates.
+- Implementing the `loadWordsFromXml()` method to read words from the XML file.
+- Implementing the `selectWords()` method to select suitable words automatically.
+- Validating input data.
 
 ### Nastya Ryabukha
 
