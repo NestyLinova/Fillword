@@ -5,8 +5,6 @@ import javax.xml.parsers.DocumentBuilderFactory;
 import org.w3c.dom.Document;
 import org.w3c.dom.NodeList;
 
-// Начало кода Кати 
-
 public class FillwordGenerator {
 
     static int size;
